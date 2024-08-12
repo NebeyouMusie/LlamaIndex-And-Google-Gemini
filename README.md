@@ -21,8 +21,7 @@
     - `source venv/bin/activate` for Mac and `venv/bin/activate` for Windows
  4. Navigate to the projects directory `cd ./LlamaIndex-And-Google-Gemini` using your terminal
  5. Install Libraries: `pip install -r requirements.txt`
- 6. Enter your `GOOGLE_API_KEY` in the `.env.example` file then change the file to `.env`
- - You can get your `GOOGLE_API_KEY` from [here](https://aistudio.google.com/app/apikey)
+ 6. Enter your `GOOGLE_API_KEY` in the `.env.example` file then change the file to `.env`. You can get your `GOOGLE_API_KEY` from [here](https://aistudio.google.com/app/apikey)
  7. run all cells found in the `./notebook/llamaindex_gemini.ipynb`
 
 ## Collaboration
